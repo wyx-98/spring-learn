@@ -5,6 +5,8 @@ logs/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+!**/src/test/**/java
+
 ### STS ###
 .apt_generated
 .classpath
